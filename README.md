@@ -17,8 +17,7 @@ Olá, me chamo **Italo de Matos**, sou de Manaus, Amazonas, Brasil. Graduando de
 
 **Meus interesses pessoais:**
 
-  <img align="right" alt="png" src="https://postimg.cc/YvN03ys8" width="400px" />
-  [undraw-dev-productivity-umsq.png](https://postimg.cc/YvN03ys8)
+  <img align="right" alt="png" src="https://i.postimg.cc/7ZdzqFMv/undraw-dev-productivity-umsq.png" width="400px" />
 
 - 👨🏽‍💻 Comecei a estudar Back-end na Trybe com **MySQL** e em breve **MongoDB** e **Node.js**;
 - 🌱 Estou buscando aplicar meus conhecimentos de Front-end em **ReactJS** em projetos pessoais; 
