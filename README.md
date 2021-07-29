@@ -1,6 +1,6 @@
 ### Bom dia, boa tarde e boa noite 👋
 
-<a href="https://https://github.com/ItaloMatosDev" target="_blank">
+<a href="https://github.com/ItaloMatosDev" target="_blank">
   <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a> 
 <a href="https://www.instagram.com/italo.ms/" target="_blank">
