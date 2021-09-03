@@ -23,7 +23,8 @@ Olá, me chamo **Italo de Matos**, sou de Manaus, Amazonas, Brasil. Graduando de
 - 🌱 Estou buscando aplicar meus conhecimentos de Front-end em **ReactJS** em projetos pessoais; 
 - 🤔 No momento estou viciado em ouvir podcast até surgir algo mais legal haha;
 - 💼 Estou buscando conhecimento para evoluir na minha carreira de desenvolvedor;
-- 📫 Por favor, envie um email para **italomatos764@gmail.com** para me encontrar.
+- 📫 Envie um email para **italomatos764@gmail.com** para me encontrar.
+- 📝 Veja meu Currículo <a href="https://gitconnected.com/italomatosdev/resume" target="_blank">clicando aqui</a> para mais informações.
 
 <br />
 <br />
@@ -38,6 +39,8 @@ Olá, me chamo **Italo de Matos**, sou de Manaus, Amazonas, Brasil. Graduando de
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </p>
 
