@@ -15,7 +15,7 @@
 <br />
 <br />
 
-Olá, me chamo **Italo de Matos**, sou de Manaus - AM, e atualmente moro em São Carlos - SP. Graduando de Sistemas de Informação pela Universidade de São Paulo e estagiário em  **Desenvolvimento de Software Fullstack na Delivery Direto.** 🚀
+Olá, me chamo **Italo Matos**, sou de Manaus - AM, e atualmente moro em São Carlos - SP. Graduando de Sistemas de Informação pela Universidade de São Paulo e estagiário em  **Engenharia de Produtos na Locaweb.** 🚀
 
 **Meus interesses pessoais:**
 
