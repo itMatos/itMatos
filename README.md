@@ -71,6 +71,6 @@ Olá, me chamo **Italo Matos**, sou de Manaus - AM e atualmente moro em São Car
 <br />
 <br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ItaloMatosDev" alt="italo-matos" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itMatos" alt="italo-matos" /> </p>
 
 ⭐️ Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
