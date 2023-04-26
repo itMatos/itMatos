@@ -4,18 +4,14 @@
   <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 
-<a href="https://github.com/ItaloMatosDev" target="_blank">
+<a href="https://github.com/itMatos" target="_blank">
   <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a>
 
-<a href="https://www.instagram.com/italo.ms/" target="_blank">
-  <img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
-</a> 
-
 <br />
 <br />
 
-Olá, me chamo **Italo Matos**, sou de Manaus - AM, e atualmente moro em São Carlos - SP. Graduando de Sistemas de Informação pela Universidade de São Paulo e estagiário em  **Engenharia de Produtos na Locaweb.** 🚀
+Olá, me chamo **Italo Matos**, sou de Manaus - AM e atualmente moro em São Carlos - SP, onde sou graduando de **Sistemas de Informação** pela Universidade de São Paulo - **USP** e estagiário de  **Engenharia de Software - Cloud Platform na  OLX Brasil**. 🚀
 
 **Meus interesses pessoais:**
 
@@ -66,10 +62,10 @@ Olá, me chamo **Italo Matos**, sou de Manaus - AM, e atualmente moro em São Ca
 
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=ItaloMatosDev&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="italo-matos" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=itMatos&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="italo-matos" />
 </p>
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloMatosDev&layout=compact&theme=graywhite&title_color=268bd2" alt="italo-matos" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itMatos&layout=compact&theme=graywhite&title_color=268bd2" alt="italo-matos" />
 </p>
 
 <br />
