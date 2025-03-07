@@ -23,7 +23,7 @@ Olá, me chamo **Italo Matos**, sou de Manaus - AM e atualmente moro em São Car
 - 💼 Empenhado em evoluir na carreira de desenvolvedor de software;
 - 👽 Sigo o conselho do ET Bilu e <a href="https://www.youtube.com/watch?v=GggUi3KQpLc&ab_channel=GuilhermeSousa" target="_blank">busco conhecimento</a>
 - 📫 Ei, envie um email para **italomatos764@gmail.com** para me encontrar.
-- 📝 Além disso, você pode ver meu **Currículo** <a href="https://gitconnected.com/italomatosdev/resume" target="_blank">clicando aqui</a> para mais informações.
+- 📝 Além disso, você pode ver meu **Currículo** <a href="https://gitconnected.com/itmatos/resume" target="_blank">clicando aqui</a> para mais informações.
 
 <br />
 <br />
