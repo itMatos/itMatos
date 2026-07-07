@@ -11,7 +11,7 @@
 <br />
 <br />
 
-Olá, me chamo **Ítalo Matos**, moro em São Carlos - SP, sou graduado em **Sistemas de Informação** pela Universidade de São Paulo - **USP** e **Engenheiro de Software na Von Braun Labs**. 🚀
+Olá, me chamo **Ítalo Matos**, moro em São Carlos - SP, sou graduado em **Sistemas de Informação** pela Universidade de São Paulo - **USP** e **Engenheiro de Software na [Von Braun Labs](https://wvblabs.com.br/)**. 🚀
 <br /> 
 
 # Linguagens e ferramentas 🔧
