@@ -1,20 +1,31 @@
-### Bom dia, boa tarde e boa noite 👋
+### Bem-vindo(a) ao meu perfil! 👋
 
 <a href="https://www.linkedin.com/in/italo-de-matos/" target="_blank">
-  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-
 <a href="https://github.com/itMatos" target="_blank">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
-<br />
-<br />
+---
 
-Olá, me chamo **Ítalo Matos**, moro em São Carlos - SP, sou graduado em **Sistemas de Informação** pela Universidade de São Paulo - **USP** e **Engenheiro de Software na [Von Braun Labs](https://wvblabs.com.br/)**. 🚀
-<br /> 
+Olá, me chamo **Ítalo Matos**, moro em São Carlos - SP. Sou graduado em **Sistemas de Informação** pela Universidade de São Paulo (**USP**) e atualmente atuo como **Engenheiro de Software na [Von Braun Labs](https://wvblabs.com.br/)**. 🚀
 
-# Linguagens e ferramentas 🔧
+### Contato
+* 💼 **LinkedIn:** [in/italo-de-matos](https://www.linkedin.com/in/italo-de-matos/)
+* 📧 **E-mail:** [italomatos764@gmail.com](mailto:italomatos764@gmail.com)
+
+---
+
+## Experiências e projetos
+
+* **Von Braun Labs:** Atuo no desenvolvimento frontend e UX/UI dos projetos [ChampionChip Experience](https://championchipexperience.org/) (Brasil e Malásia) e [ChipInventor](https://www.chipinventor.com/landing-page), iniciativas voltadas para incentivar e democratizar o design de semicondutores.
+* **Desenvolvimento Mobile:** Atuei no desenvolvimento de aplicações mobile para rastreamento (utilizando RFID e Bluetooth), tendo inclusive uma [aplicação publicada na Google Play Store](https://play.google.com/store/apps/details?id=br.com.vonbraunlabs.tagvirtual3.votorantim).
+* **Zenith Aerospace (Extracurricular USP):** Fui membro deste grupo focado no desenvolvimento de sockets, sondas e satélites, onde atuei no desenvolvimento do site principal [(confira a página de lançamentos)](https://zenith-aerospace.netlify.app/launches) e no aplicativo de rastreamento [Zenith Monitor](https://github.com/zenitheesc/zenith-monitor-rn).
+
+---
+
+## 🔧 Linguagens e ferramentas
 
 | Categoria | Ferramentas |
 |:---:|:---|
@@ -23,8 +34,10 @@ Olá, me chamo **Ítalo Matos**, moro em São Carlos - SP, sou graduado em **Sis
 | **Mobile** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain-wordmark.svg" width="50" height="50" /> |
 | **Database** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="50" height="50" /> |
 | **Tests** | <img src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="jest" width="50" height="50" /> |
+| **Automação / DevOps** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg" alt="grafana" width="50" height="50" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50" />  |
 
-<br />
-<br />
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itMatos" alt="italo-matos" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itMatos&color=blue" alt="italo-matos" />
+</p>
