@@ -21,7 +21,7 @@ Olá, me chamo **Ítalo Matos**, moro em São Carlos - SP. Sou graduado em **Sis
 
 * **Von Braun Labs:** Atuo no desenvolvimento frontend e UX/UI dos projetos [ChampionChip Experience](https://championchipexperience.org/) (Brasil e Malásia) e [ChipInventor](https://www.chipinventor.com/landing-page), iniciativas voltadas para incentivar e democratizar o design de semicondutores.
 * **Desenvolvimento Mobile:** Atuei no desenvolvimento de aplicações mobile para rastreamento (utilizando RFID e Bluetooth), tendo inclusive uma [aplicação publicada na Google Play Store](https://play.google.com/store/apps/details?id=br.com.vonbraunlabs.tagvirtual3.votorantim).
-* **Zenith Aerospace (Extracurricular USP):** Fui membro deste grupo focado no desenvolvimento de sockets, sondas e satélites, onde atuei no desenvolvimento do site principal [(confira a página de lançamentos)](https://zenith-aerospace.netlify.app/launches) e no aplicativo de rastreamento [Zenith Monitor](https://github.com/zenitheesc/zenith-monitor-rn).
+* **Zenith Aerospace (Extracurricular USP):** Fui membro deste grupo focado no desenvolvimento de sondas e nanossatélites, onde atuei no desenvolvimento do site principal [(confira a página de lançamentos)](https://zenith-aerospace.netlify.app/launches) e no aplicativo de rastreamento [Zenith Monitor](https://github.com/zenitheesc/zenith-monitor-rn).
 
 ---
 
